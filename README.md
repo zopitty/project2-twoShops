@@ -15,7 +15,7 @@ Data stored in firebase consists of store name, address, longitude and latitude.
 
 ## Link to the application
 
-- not yet deployed
+[twoShops](https://twoshops.netlify.app/)
 
 ## Description of unsolved problems
 
